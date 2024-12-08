@@ -247,6 +247,9 @@ Underrubrikken. Vil i kvalitetssikringen være tom.
 
 ## Retter en resource
 
+### Tilføje en titel til en resource
+
+
 ## Slet en resource
 
 ## Retter en body -> Text
