@@ -247,7 +247,8 @@ Underrubrikken. Vil i kvalitetssikringen være tom.
 # Hvordan gør jeg ....
 
 ## "Save and Publish"
-
+1. På alle sider, er "Save and Publish" nede i hjørnet.
+![Proces - Save and Publish|500](assets/Proces%20-%20Save%20and%20Publish.png)
 
 ## Retter en resource
 
