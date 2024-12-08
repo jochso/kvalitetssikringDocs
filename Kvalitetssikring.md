@@ -32,11 +32,7 @@ Kvalitetssikringen af medier indebærer at organisere filer i mapper og give nye
 Når man starter med at kvalitetssikre medier vælger man en tilfældig fil med et navn i retning af "5def10b6-ea4a-4d3f-a554-c0edef6f5564". Scroll gerne ned ad, men undgå de første 20 filer og sidste 20 filer. Vi regner med at sandsynligheden for at man ender på samme fil er lav i starten.
 
 ## Proces
-
-![Pasted image 20241204143419|600](assets/Proces%20-%20Medier.png)
-
-
-
+![Proces - Medier|600](assets/Proces%20-%20Medier.png)
 
 - Vælg en fil i højre menuen med et ID-navn (ex. 5def10b6-ea4a-4d3f-a554-c0edef6f5564) 
 - Tryk på PDF-filen ved 1-tallet på billedet.
