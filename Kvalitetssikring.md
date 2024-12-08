@@ -12,12 +12,12 @@ Man vil som udgangspunkt blive startet med enten at kvalitetssikre medier, eller
 - Nyheder
 	- Birgitte Dalgaard
 - Medier
-	- Johannes Sørensen
-	- Anne Hjelm
+	- Hvem kan Mandag og Tirsdag?
 - Database sider
 	- Anne Hjelm
 	- Tina Vammen
 	- Nanna Vestergaard
+	- Johannes Sørensen
 
 
 ### Noter om indhold
