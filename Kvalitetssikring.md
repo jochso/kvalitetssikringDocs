@@ -170,7 +170,7 @@ Standardiserede navne (til copy paste):
 
 ### Proces
 
-1. Save and Publish "Nyheder fra ...." oversiden
+1. Save and Publish "Nyheder fra ...." oversiden (Se [Side elementer](#side-elementer))
 2. Kvalitetssikre hver nyhed:
 	1. Kvalitetssikre dato:
 		1. Er "OverrideDate" fra før 2024?
@@ -254,17 +254,17 @@ Underrubrikken. Vil i kvalitetssikringen være tom.
 
 ### Tilføje en titel til en resource
 1. Åben din "resource"
-![Proces - Resource - Open Resource|450](assets/Proces%20-%20Resource%20-%20Open%20Resource.png)
+![Proces - Resource - Open Resource|500](assets/Proces%20-%20Resource%20-%20Open%20Resource.png)
 2. Tryk på "Edit"
-![Proces - Resource - Edit|450](assets/Proces%20-%20Resource%20-%20Edit.png)
+![Proces - Resource - Edit|500](assets/Proces%20-%20Resource%20-%20Edit.png)
 3. Skriv et navn i "Link Title". Dette er teksten som bliver vist på "knappen" på hjemmeside.
-![Proces - Resource - Add Title|450](assets/Proces%20-%20Resource%20-%20Add%20Title.png)
+![Proces - Resource - Add Title|500](assets/Proces%20-%20Resource%20-%20Add%20Title.png)
 
 ## Slet en resource
 1. Åben din "resource"
-![Proces - Resource - Open Resource|450](assets/Proces%20-%20Resource%20-%20Open%20Resource.png)
+![Proces - Resource - Open Resource|500](assets/Proces%20-%20Resource%20-%20Open%20Resource.png)
 2. Tryk på "Remove"
-![Proces - Resource - Remove|450](assets/Proces%20-%20Resource%20-%20Remove.png)
+![Proces - Resource - Remove|500](assets/Proces%20-%20Resource%20-%20Remove.png)
 
 
 ## Retter en body -> Text
