@@ -87,7 +87,7 @@ Det anbefales at have to skærme, så rkkp.dk kan være på den ene skærm og de
 	2. Er der HTML elementer som `<p></p>` eller `&nbsp;` i teksten?
 		1. JA: Marker som "afvist"
 2. Kvalitetssikre Body -> "Text": 
-	1. Er der tekst om databasens baggrund og/eller formål? ("A" på [Side elementer](#side-elementer))
+	1. Er der tekst om databasens baggrund og/eller formål? ("A" på [Body -> Text elementer](##body---text-elementer))
 		1. NEJ: 
 			1. Er teksten landet oppe i PageSubTitle? Klip det ned i body.
 			2. Ellers, kopier teksten fra RKKP.dk. (hvis der ingen er  på RKKP da, markeres den som godkendt.)
@@ -175,7 +175,7 @@ Standardiserede navne (til copy paste):
 	1. Kvalitetssikre dato:
 		1. Er "OverrideDate" fra før 2024?
 			1. JA: Slet nyheden.
-	2. Kvalitetssikre PageTitle
+	2. Kvalitetssikre PageTitle ("B" på [Side elementer](#side-elementer))
 		1. Ser det forkert ud?
 			1. JA: Ret det.
 	3. Kvalitetssikre PageSubTitle ("C" på [Side elementer](#side-elementer))
@@ -183,7 +183,7 @@ Standardiserede navne (til copy paste):
 			1. JA: Fortsæt.
 		2. Er der HTML i teksten?
 			1. JA: Slet det.
-	4. Kvalitetssikre Text -> Body
+	4. Kvalitetssikre Text -> Body ("A" på [Body -> Text elementer](##body---text-elementer))
 		1. Ser det rigtigt ud?
 			1. NEJ: Lav små rettelser for at gøre det acceptabelt, ellers marker som "afvist" i Excel arket. 
 
@@ -245,6 +245,9 @@ Underrubrikken. Vil i kvalitetssikringen være tom.
 
 
 # Hvordan gør jeg ....
+
+## "Save and Publish"
+
 
 ## Retter en resource
 
