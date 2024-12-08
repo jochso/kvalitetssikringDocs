@@ -241,8 +241,6 @@ Rubrikken til teksten. Vil i kvalitetssikringen være tom.
 ## Body -> Subtitle (C)
 Underrubrikken. Vil i kvalitetssikringen være tom.
 
-## Resource
-- Kommer snart...
 
 
 # Hvordan gør jeg ....
