@@ -129,9 +129,11 @@ Standardiserede navne (til copy paste):
 ## ”Indberetning”
 **Kun PDF filer er flyttet automatisk til den nye site. Links til eksterne sider skal tilføjes til ”Ressource”.**
 
-Teksten til ”Link title” må gerne være omtrentlig, og behøver ikke være præcis den samme som på RKKP.
+- Teksten til ”Link title” må gerne være omtrentlig, og behøver ikke være præcis den samme som på RKKP.
 
-Underoverskriften som "Skemaer", "Registervejledninger" og "Øvrige" ignoreres under kvalitetssikringen. Alt ligges under samme overskrift.
+- Underoverskriften som "Skemaer", "Registervejledninger" og "Øvrige" ignoreres under kvalitetssikringen. Alt ligges under samme overskrift.
+
+### Proces
 
 1. Kvalitetssikre "PageSubTitle"
 	1. Slet indholdet i PageSubTitle, hvis der står noget "html kode bras"
@@ -147,7 +149,9 @@ Underoverskriften som "Skemaer", "Registervejledninger" og "Øvrige" ignoreres u
 	1. Hvis ikke du kan publish er det fordi de øvre noder ikke er published. Rækkefølgen på opgaven burde forhindrer dette. Ellers lav kvalitetssikring på de øvre noder først.
 
 ## ”Viden”
-Under "viden" findes normalt kun Årsrapporter og Onepagers. Hvis der er andet, indhold markeres det i kommentar feltet i Excel.
+- Under "viden" findes normalt kun Årsrapporter og Onepagers. Hvis der er andet, indhold markeres det i kommentar feltet i Excel.
+
+### Proces
 
 1. Save and Publish "Viden" oversiden
 2. Kvalitetssikre undersider
@@ -167,6 +171,8 @@ Under "viden" findes normalt kun Årsrapporter og Onepagers. Hvis der er andet, 
 
 ## ”Nyheder fra …”
 **Husk at "OverrideDate" er den dato som hjemmesiden sorterer efter i front-end. Rækkefølgen i Umbraco har ingen betydning og kan rettes senere.**
+
+### Proces
 
 1. Save and Publish "Nyheder fra ...." oversiden
 2. Kvalitetssikre hver nyhed:
@@ -188,9 +194,12 @@ Under "viden" findes normalt kun Årsrapporter og Onepagers. Hvis der er andet, 
 
 ## Kvalitetssikring af Nyheder
 
-# Opgaver (Efter kvalitetssikring)
-Disse opgaver udføres af én person på alle databaserne.
 
+
+# Opgaver (Efter kvalitetssikring)
+Disse opgaver skal løses ved hjælp af Umbraco værktøjer, og skal laves efter kvalitetssikringen/kundetesten er færdig.
+
+Da processen ikke er helt på plads kommer de senere.
 
 ## Tilføj "Dokumentation"-boks til "Dokumentation"-side
 - Beskrivelse kommer senere.
@@ -210,7 +219,8 @@ Disse opgaver udføres af én person på alle databaserne.
 ## Tilføj "Vil du vide mere?"
 - Beskrivelse kommer senere...
 
-# Side elementer
+# Elementer i Umbraco
+## Side elementer
 
 ![Page Elements|600](assets/Page%20Elements.png)
 ### Title (A)
