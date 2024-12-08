@@ -144,7 +144,7 @@ Standardiserede navne (til copy paste):
 	3. Er der samme antal links til indhold på RKKP.dk som der er under "Resources"?
 		1. NEJ: Tilføj links til "Resources". Dette bør kun være til eksterne sider, eller PDF'er udenfor "https://www.rkkp.dk/siteassets/".
 	4. Er alle "Resources" navngivet? (dvs. titlen ikke er fx. "9a30b2e6-d48b-4689-8a5b-42f0a33c599d")
-		1. NEJ: Ret navnet.
+		1. NEJ: Ret navnet ved at ændre: "Link title"
 3. Færdig: Save and Publish.
 	1. Hvis ikke du kan publish er det fordi de øvre noder ikke er published. Rækkefølgen på opgaven burde forhindrer dette. Ellers lav kvalitetssikring på de øvre noder først.
 
@@ -234,7 +234,7 @@ Alternativ titel. Skal i kvalitetssikring være den samme som PageTitle.
 ## PageDisplaySubTitle (E)
 Alternativ underrubrik. Skal i kvalitetssikring være tom, da den ikke endnu er implementeret.
 
-# Body -> Text elementer
+## Body -> Text elementer
 ![Body Elements|600](assets/Body%20Elements.png)
 ## Body -> Text (A)
 Hovedteksten. I kvalitetssikringen vil meget indhold blive lagt her, da det er svært at få til at lande mere avanceret.
@@ -243,4 +243,10 @@ Rubrikken til teksten. Vil i kvalitetssikringen være tom.
 ## Body -> Subtitle (C)
 Underrubrikken. Vil i kvalitetssikringen være tom.
 
+## Resource
+- Kommer snart...
 
+
+# Hvordan gør jeg ....
+
+## Slet en resource
