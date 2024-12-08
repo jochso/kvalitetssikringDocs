@@ -3,10 +3,11 @@ Det vil være en fordel at få medier kvalitetssikret først, så vi kan tage da
 
 Mens kvalitetssikringen af medier er undervejs, kan "Dokumentation" og "Indberetning" ikke kvalitetssikres på databaserne. Kvalitetssikringen af databaserne vil derfor være over to omgange/faser. Når kvalitetssikringen af medier er gennemført, går alle i gang med database-siderne. Det vil blive meldt ud hvornår vi kan begynde på "Dokumentation" og "Indberetning" siderne.
 
-Vi laver status onsdag for at få en idé om status på kvalitetssikringen.
+Vi laver status onsdag for at se fremdrift i processen.
 
 Man vil som udgangspunkt blive startet med enten at kvalitetssikre medier, eller database-sider. (Udover Birgitte, som vil tage sig af "Nyheder" først.)
 
+### Tildeling af opgaver
 
 - Nyheder
 	- Birgitte Dalgaard
@@ -17,10 +18,11 @@ Man vil som udgangspunkt blive startet med enten at kvalitetssikre medier, eller
 	- Anne Hjelm
 	- Tina Vammen
 	- Nanna Vestergaard
-	- Birgitte Dalgaard
 
 
-Hvis der i teksten står et # med et tal efter, betyder det at noget er fjernet fra teksten automatisk. (fx. #232) Efterlad dette i teksten, da vi senere vil se på hvad der blevet fjernet i 2025.
+### Noter om indhold
+
+Hvis der i teksten står et # med et tal efter, betyder det at noget er fjernet fra teksten automatisk. (fx. **#232**) Efterlad dette i teksten, da vi senere vil se på hvad der blevet fjernet i 2025.
 
 Hvis i finder en fejl som går igen flere gange skal i tage fat i mig. Så vil jeg se om det er noget vi kan automatisere i processen. Hvis det er tilfældet sender jeg en mail ud med at vi holder en pause i kvalitetssikringen, og derefter sender jeg en mail når vi går i gang igen.  En pause vil typisk ikke være mere end en 1 time, men ændringer i indhold vil blive overskrevet hvis de laves mens der er pause. Vi bruger versionsstyring for at undgå at vores arbejde går tabt i denne proces.
 
@@ -29,9 +31,10 @@ Kvalitetssikringen af medier indebærer at organisere filer i mapper og give nye
 
 Når man starter med at kvalitetssikre medier vælger man en tilfældig fil med et navn i retning af "5def10b6-ea4a-4d3f-a554-c0edef6f5564". Scroll gerne ned ad, men undgå de første 20 filer og sidste 20 filer. Vi regner med at sandsynligheden for at man ender på samme fil er lav i starten.
 
-Processen er:
+## Proces
 
-![Pasted image 20241204143419|600](assets/Pasted%20image%2020241204143841.png)
+![Pasted image 20241204143419|600](assets/Proces%20-%20Medier.png)
+
 
 
 
@@ -58,19 +61,13 @@ Tillægsdokument
 
 
 ## Kvalitetssikring af Database-sider
-Kvalitetssikringen af database-siderne indebærer:
-
-- kontrollere om det overordnede indholdet på undersiderne er blevet flyttet over.
-- kontrollere at tekst-felter (PageTitle, PageSubTitle, Body) er korrekte.
-- kontrollere at alt indhold er i "resource"-samlinger, samt tilføje eksterne links til en "resource".
-
 Status på kvalitetssikringen af database-siderne indrapporteres her: [Kvalitetssikring database.xlsx](https://regionmidtjylland-my.sharepoint.com/:x:/r/personal/jochso_onerm_dk/Documents/Dokumenter/Projekter/Ny%20Hjemmeside/Kvalitetssikring/Kvalitetssikring%20database.xlsx?d=wad3e4b98f23b4ed79f3e93b0ecde4247&csf=1&web=1&e=GNaS94)
 
 For at undgå dobbeltarbejde er der tildelt 10 databaser pr. person til at starte med - herefter kan man tildele database sider til sig selv af de resterende. 
 
-Hver underside kan markeres med et "x" alt efter om de er klar eller afvist. Afvist bruges ved fejl i eksporten, og vil blive vægtet på basis til basis om det er en situation hvor vi går til leverandøren for at få det ordnet, eller selv fikser det. Det vil være beskrevet i processen herunder hvornår "afvist" skal bruges. "Klar" hentyder til "klar til offentliggørelse".
-
-~~Jeg har kodet et program til at hjælp med tekst-rettelser, som kan gøre processen hurtigere. Det kræver administrative rettigheder på ens PC at køre programmet. Alternativt vil de skridt som programmet gør også være beskrevet herunder.~~ Jeg har fået adgang til databasen og kørt alle de rettelser automatisk på database-niveau, derfor er programmet ikke længere nødvendigt.
+Hver underside kan markeres med et "x"  efter om de er klar eller afvist:
+- "Klar" hentyder til "klar til offentliggørelse".
+- Afvist bruges ved fejl i eksporten, og vil blive vægtet på basis til basis om det er en situation hvor vi går til leverandøren for at få det ordnet, eller selv fikser det. Det vil være beskrevet i processen herunder hvornår "afvist" skal bruges. 
 
 Det anbefales at have to skærme, så rkkp.dk kan være på den ene skærm og den nye hjemmeside på den anden.
 
@@ -78,16 +75,16 @@ Det anbefales at have to skærme, så rkkp.dk kan være på den ene skærm og de
 ![Database - Forside|600](assets/Database%20-%20Forside.png)
 
 
-Opgaver:
+### Opgaver
 1. Kvalitetssikring:
 	1. Er navnet på databasen den samme som på RKKP.dk i titlen (A), PageTitle (B) og PageDisplayTitle (C)?
 		1. NEJ: Ret det.
 2. Færdig: Save and publish.
 
 ## ”Om Databasen”
-Der er tekst om formandskab og et link til oversigt over medlemmer. Lad denne stå i kvalitetssikringen.
+**Der er tekst om formandskab og et link til oversigt over medlemmer. Lad dette stå i kvalitetssikringen, da det først tilrettes senere.**
 
-Opgaver:
+### Opgaver
 1. Kvalitetssikre "PageSubTitle"
 	1. Er der ÅÆØ i teksten?
 		1. NEJ: Markér som "Afvist"
@@ -106,9 +103,11 @@ Opgaver:
 ## ”Dokumentation”
 **Hvis ikke kvalitetssikringen af Medier er færdig springes dokumentation over og markeres ikke i Excel arket.**
 
-Kun PDF filer er flyttet automatisk til den nye site. Links til eksterne sider skal tilføjes til ”Resource” manuelt. Hvis der mangler links til PDF'er, som har adressen "https://www.rkkp.dk/siteassets/" skal siden markeres som "Afvist".
+- Kun PDF filer er flyttet automatisk til den nye site. Links til eksterne sider skal tilføjes til ”Resource” manuelt. Hvis der mangler links til PDF'er, som har adressen "https://www.rkkp.dk/siteassets/" skal siden markeres som "Afvist".
 
-I denne kvalitetssikring vil alle links/filer blive lagt under samme overskrift. Det vil være en opgave i 2025 at splitte indholdet op i mindre sektioner.
+- I denne kvalitetssikring vil alle links/filer blive lagt under samme overskrift. Det vil være en opgave i 2025 at splitte indholdet op i mindre sektioner.
+
+### Proces
 
 1. Kvalitetssikre "PageSubTitle"
 	1. Slet indholdet i PageSubTitle, hvis der står noget "html kode bras"
