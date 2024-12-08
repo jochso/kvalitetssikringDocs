@@ -81,7 +81,7 @@ Det anbefales at have to skærme, så rkkp.dk kan være på den ene skærm og de
 **Der er tekst om formandskab og et link til oversigt over medlemmer. Lad dette stå i kvalitetssikringen, da det først tilrettes senere.**
 
 ### Opgaver
-1. Kvalitetssikre "PageSubTitle" ("C" på )
+1. Kvalitetssikre "PageSubTitle" ("C" på [Side elementer](#page-elements))
 	1. Er der ÅÆØ i teksten?
 		1. NEJ: Markér som "Afvist"
 	2. Er der HTML elementer som `<p></p>` eller `&nbsp;` i teksten?
@@ -216,6 +216,8 @@ Da processen ikke er helt på plads kommer de senere.
 - Beskrivelse kommer senere...
 
 # Elementer i Umbraco
+
+<a name="page-element"></a>
 ## Side elementer
 
 ![Page Elements|600](assets/Page%20Elements.png)
