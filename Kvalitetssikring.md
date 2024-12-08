@@ -249,4 +249,11 @@ Underrubrikken. Vil i kvalitetssikringen være tom.
 
 # Hvordan gør jeg ....
 
+## Retter en resource
+
 ## Slet en resource
+
+## Retter en body -> Text
+
+## Tilføjer en underside.
+- Kommer snart...
