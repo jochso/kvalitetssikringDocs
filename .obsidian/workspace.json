@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "9b022d006776669d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3194b141590179f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "535b9c0ae75debfb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c7fedd83dabb32f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d891934d41d20e8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bf79c1f5b9e6713",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b7d33945b73b3fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9ab0743764b41c75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 431.5
+  },
+  "right": {
+    "id": "3245323f637db9f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cce330068e1fd2cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19a21264bc1c67bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Knowlegde base/Obsidian bootcamp/2. Markdown i obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. Markdown i obsidian"
+            }
+          },
+          {
+            "id": "fc945bd0566378c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowlegde base/Obsidian bootcamp/2. Markdown i obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2. Markdown i obsidian"
+            }
+          },
+          {
+            "id": "5edecec9d197e25c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c2a3616cb557e5f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IT Systemer/RKKP-WS/Weberservice How-to.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Weberservice How-to"
+            }
+          },
+          {
+            "id": "1983649fc8cc731b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false,
+      "system3-relay:Relay": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "535b9c0ae75debfb",
+  "lastOpenFiles": [
+    "IT Systemer/Hjemmeside/assets/Body Elements.png",
+    "IT Systemer/Hjemmeside/assets/Page Elements.png",
+    "IT Systemer/Hjemmeside/Kvalitetssikring af hjemmeside.md",
+    "IT Systemer/Hjemmeside/assets/Database - Forside.png",
+    "IT Systemer/Hjemmeside/Kvalitetssikring af hjemmeside 1.md",
+    "Organisation/Regionerne/Deling af filer udenfor RM.md",
+    "Organisation/Regionmidt domainer.md",
+    "Organisation/Regionerne",
+    "Organisation/Nyttige links.md",
+    "Organisation/EAN link.md",
+    "Organisation",
+    "IT Systemer/Hjemmeside/assets/Pasted image 20241204143841.png",
+    "IT Systemer/Hjemmeside/assets/Pasted image 20241204143419.png",
+    "Pasted image 20241119151541.png",
+    "IT Systemer/Hjemmeside/assets",
+    "IT Systemer/Hjemmeside/Ønskeliste.md",
+    "Regioner/Region Midt/Bestilling af domæner.md",
+    "IT Systemer/Hjemmeside",
+    "IT Systemer/WSAPI/Workflows/Oprettelse af ny webservice.md",
+    "IT Systemer/WSAPI/Releases/V1.3.0.md",
+    "IT Systemer/WSAPI/Releases/V1.3.md",
+    "IT Systemer/WSAPI/Releases",
+    "Knowlegde base/Python/Pydantic/Time to live - index.md",
+    "Knowlegde base/Python/Pydantic/Forwards reference.md",
+    "Knowlegde base/Python/Pydantic",
+    "Knowlegde base/Regionmidt domainer.md",
+    "IT Systemer/WSAPI/Workflows/Modellering af webservice.md",
+    "IT Systemer/WSAPI/Workflows/Implementering af webservice hos dataleverandører.md",
+    "Knowlegde base/Python/Virtuel enviroment -venv.md",
+    "IT Systemer/WSAPI/Performance/2nd index benchmark.md",
+    "Templates/abbreviation.md",
+    "IT Systemer/WSAPI/Performance/1st Index benchmark.md",
+    "IT Systemer/WSAPI/Workflows/Modellering, Ny webservice/Endpoint Værktøjer.md",
+    "IT Systemer/WSAPI/Workflows/Modellering, Ny webservice/TransformerScript.md",
+    "IT Systemer/WSAPI/Workflows/Adgang til WSAPI.md",
+    "IT Systemer/WSAPI/Workflows/Ændring af WSAPI webservice.md",
+    "IT Systemer/WSAPI/Workflows/Modellering, Ny webservice",
+    "IT Systemer/WSAPI-Endpoint-Tools/Writing Jinja.md",
+    "Knowlegde base/Mongodb",
+    "IT Systemer/WSAPI/Performance",
+    "Knowlegde base/Regionerne",
+    "IT Systemer/RKKP-WS/Assets/RushHour.png",
+    "IT Systemer/WSAPI/WSAPI nuværende webservices.canvas",
+    "Pasted image 20241021093529.png",
+    "Pasted image 20241031120721.png",
+    "Pasted image 20241031120736.png"
+  ]
+}

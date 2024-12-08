@@ -1,0 +1,14 @@
+{
+  "obsidian-columns:insert-column-wrapper": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ]
+}

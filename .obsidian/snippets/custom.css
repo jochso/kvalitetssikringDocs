@@ -1,0 +1,121 @@
+/* Root style override */
+body {
+  
+  --nord11: #48cae4;
+  --nord11-1: #48cae44b;
+  --nord12: #48cae4;
+  --nord13: #00b4d8;
+  --nord13-0: #00b4d8;
+  --nord13-1: #00b4d84b;
+  --nord14: #00b4d8;
+  --nord14-0: #00b4d8;
+  --nord15: #0096c7;
+  --nord8: #0096c7;
+  --accent-em: var(--text-normal) !important;
+  --text-accent: #48e480 !important;
+  --text-accent-hover: #48e480 !important;
+  
+  --text-folder-file-icon: var(--nord8) !important;
+
+  --background-modifier-border: var(--table-thead-background-color) !important;
+  
+  --bt-connected-indent-line-color: var(--nord15) !important;
+  
+  --hr-color-1: var(--nord8) !important;
+  --hr-color-2: var(--nord13) !important;
+  --hr-color-3: var(--nord8) !important;
+  
+  --green: var(--text-accent) !important;
+  --blue: var(--nord15) !important;
+  
+  --code-normal: var(--text-accent) !important;
+  --code-active-line-background-color: rgba(255, 255, 255, 0.15) !important
+
+
+}
+
+/* HR */
+
+body.fancy-hr-no-icon .cm-s-obsidian hr {
+    border-image: linear-gradient(to right, transparent 0%, var(--hr-color-1) 15%, var(--hr-color-2) 50%, var(--hr-color-3) 85%, transparent 100%) 1;
+    border-width: 2px;
+}
+
+/* Mermaid Overrides */
+.mermaid [id$="arrowhead"] path {
+    fill: var(--text-normal) !important;
+    stroke: var(--text-normal) !important;
+}
+
+.mermaid .activation0, .mermaid .activation1, .mermaid .activation2 {
+    fill: var(--background-secondary) !important;
+    stroke: var(--text-normal) !important;
+}
+
+.mermaid .actor {
+    stroke: var(--text-normal) !important;
+}
+
+.mermaid .labelBox {
+    stroke: var(--text-normal) !important;
+    fill: var(--background-secondary-alt) !important;
+}
+
+.mermaid .loopLine {
+  stroke-dasharray: 2, 2 !important;
+  stroke: var(--text-normal) !important;
+  fill: var(--text-normal) !important;
+}
+
+.mermaid .section2 {
+  fill: var(--text-normal) !important;
+}
+
+.relation {
+    stroke: var(--text-normal) !important;
+    fill: none !important;
+}
+
+.divider {
+    stroke: var(--table-thead-background-color) !important;
+    stroke-width: 2.5 !important;
+}
+
+.entityBox {
+    fill: var(--table-thead-background-color) !important;
+    stroke: var(--text-muted);
+}
+
+/* Table Styling override */
+
+.attributeBoxOdd {
+    fill: var(--table-background-color-odd) !important;
+    stroke-width: 0.25 !important;
+}
+
+.attributeBoxEven {
+    fill: var(--table-background-color) !important;
+    stroke-width: 0.25 !important;
+}
+
+
+
+/* Folder styling override */
+
+.workspace-leaf-content[data-type="file-explorer"] .nav-folder-title, .workspace-leaf-content[data-type="file-explorer"] .tree-item-self.is-clickable.nav-folder-title {
+    font-weight: 400;
+    padding: 4px 0 4px 23px;
+    color: var(--text-normal);
+}
+
+body:not(.is-grabbing) .tree-item-self.is-clickable.nav-folder-title:hover {
+    background-color: 
+color-mix(in srgb, var(--nav-item-background-active), transparent 0%);
+    color: var(--text-normal);
+    font-weight: normal;
+}
+
+body.folder-icons .nav-files-container .nav-folder-title-content::before {
+    filter: hue-rotate(0deg) !important;
+}
+

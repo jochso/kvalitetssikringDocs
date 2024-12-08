@@ -1,0 +1,85 @@
+{
+  "callouts": {
+    "custom": [
+      "previous",
+      "next",
+      "label"
+    ],
+    "settings": {
+      "previous": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-left"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "83, 223, 221"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 255, 255"
+          }
+        }
+      ],
+      "next": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-right"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "83, 223, 221"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 255, 255"
+          }
+        }
+      ],
+      "label": [
+        {
+          "changes": {
+            "icon": "lucide-award"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "141, 247, 142"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "141, 247, 142"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
