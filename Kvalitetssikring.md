@@ -86,8 +86,8 @@ Det anbefales at have to skærme, så rkkp.dk kan være på den ene skærm og de
 		1. NEJ: Markér som "Afvist"
 	2. Er der HTML elementer som `<p></p>` eller `&nbsp;` i teksten?
 		1. JA: Marker som "afvist"
-2. Kvalitetssikre Body -> "Text":
-	1. Er der tekst om databasens baggrund og/eller formål?
+2. Kvalitetssikre Body -> "Text": 
+	1. Er der tekst om databasens baggrund og/eller formål? ("A" på [Side elementer](#side-elementer))
 		1. NEJ: 
 			1. Er teksten landet oppe i PageSubTitle? Klip det ned i body.
 			2. Ellers, kopier teksten fra RKKP.dk. (hvis der ingen er  på RKKP da, markeres den som godkendt.)
@@ -105,7 +105,7 @@ Det anbefales at have to skærme, så rkkp.dk kan være på den ene skærm og de
 
 ### Proces
 
-1. Kvalitetssikre "PageSubTitle"
+1. Kvalitetssikre "PageSubTitle" ("C" på [Side elementer](#side-elementer))
 	1. Slet indholdet i PageSubTitle, hvis der står noget "html kode bras"
 2. Kvalitetssikre "Resource"
 	1. OBS: Ignorer kassen "Dokumentation" på rkkp.dk, denne tilføjes senere.
@@ -131,7 +131,7 @@ Standardiserede navne (til copy paste):
 
 ### Proces
 
-1. Kvalitetssikre "PageSubTitle"
+1. Kvalitetssikre "PageSubTitle" ("C" på [Side elementer](#side-elementer))
 	1. Slet indholdet i PageSubTitle, hvis der står noget "html kode bras"
 2. Kvalitetssikre "Resource"
 	1. OBS: Ignorer kassen "Indberetningssystem" på rkkp.dk, denne tilføjes senere.
@@ -178,7 +178,7 @@ Standardiserede navne (til copy paste):
 	2. Kvalitetssikre PageTitle
 		1. Ser det forkert ud?
 			1. JA: Ret det.
-	3. Kvalitetssikre PageSubTitle
+	3. Kvalitetssikre PageSubTitle ("C" på [Side elementer](#side-elementer))
 		1. Er der ÅÆØ i teksten?
 			1. JA: Fortsæt.
 		2. Er der HTML i teksten?
