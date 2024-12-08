@@ -248,8 +248,12 @@ Underrubrikken. Vil i kvalitetssikringen være tom.
 ## Retter en resource
 
 ### Tilføje en titel til en resource
-1. Tryk på "Edit" ud
-
+1. Åben din "resource"
+![Proces - Resource - Open Resource|450](assets/Proces%20-%20Resource%20-%20Open%20Resource.png)
+2. Tryk på "Edit"
+![Proces - Resource - Edit|450](assets/Proces%20-%20Resource%20-%20Edit.png)
+3. Skriv et navn i "Link Title". Dette er teksten som bliver vist på "knappen" på hjemmeside.
+![Proces - Resource - Add Title|450](assets/Proces%20-%20Resource%20-%20Add%20Title.png)
 
 ## Slet en resource
 
