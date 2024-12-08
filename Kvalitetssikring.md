@@ -75,7 +75,7 @@ Det anbefales at have to skærme, så rkkp.dk kan være på den ene skærm og de
 1. Kvalitetssikring:
 	1. Er navnet på databasen den samme som på RKKP.dk i titlen (A), PageTitle (B) og PageDisplayTitle (C)?
 		1. NEJ: Ret det.
-2. Færdig: Save and publish.
+2. Færdig: Save and publish. (Se [Save and publish](#save-and-publish))
 
 ## ”Om Databasen”
 **Der er tekst om formandskab og et link til oversigt over medlemmer. Lad dette stå i kvalitetssikringen, da det først tilrettes senere.**
@@ -93,7 +93,7 @@ Det anbefales at have to skærme, så rkkp.dk kan være på den ene skærm og de
 			2. Ellers, kopier teksten fra RKKP.dk. (hvis der ingen er  på RKKP da, markeres den som godkendt.)
 	3. Ser teksten fornuftig ud?
 		1. NEJ: Lav små rettelser for at gøre det acceptabelt, ellers marker som "afvist" i Excel arket. 
-3. Færdig: Save and publish.
+3. Færdig: Save and publish. (Se [Save and publish](#save-and-publish))
 	1. Hvis ikke du kan publish er det fordi de øvre noder ikke er published. Rækkefølgen på opgaven burde forhindrer dette. Ellers lav kvalitetssikring på de øvre noder først.
 
 ## ”Dokumentation”
@@ -115,7 +115,7 @@ Det anbefales at have to skærme, så rkkp.dk kan være på den ene skærm og de
 		1. NEJ: Tilføj links til "Resources". Dette bør kun være til eksterne sider, eller PDF'er udenfor "https://www.rkkp.dk/siteassets/".
 	4. Er alle "Resources" navngivet? (dvs. titlen ikke er fx. "9a30b2e6-d48b-4689-8a5b-42f0a33c599d")
 		1. NEJ: Ret navnet.
-3. Færdig: Save and Publish
+3. Færdig: Save and Publish (Se [Save and publish](#save-and-publish))
 	1. Hvis ikke du kan publish er det fordi de øvre noder ikke er published. Rækkefølgen på opgaven burde forhindrer dette. Ellers lav kvalitetssikring på de øvre noder først.
 
 Standardiserede navne (til copy paste):
@@ -141,7 +141,7 @@ Standardiserede navne (til copy paste):
 		1. NEJ: Tilføj links til "Resources". Dette bør kun være til eksterne sider, eller PDF'er udenfor "https://www.rkkp.dk/siteassets/".
 	4. Er alle "Resources" navngivet? (dvs. titlen ikke er fx. "9a30b2e6-d48b-4689-8a5b-42f0a33c599d")
 		1. NEJ: Ret navnet ved at ændre: "Link title"
-3. Færdig: Save and Publish.
+3. Færdig: Save and Publish. (Se [Save and publish](#save-and-publish))
 	1. Hvis ikke du kan publish er det fordi de øvre noder ikke er published. Rækkefølgen på opgaven burde forhindrer dette. Ellers lav kvalitetssikring på de øvre noder først.
 
 ## ”Viden”
@@ -149,7 +149,7 @@ Standardiserede navne (til copy paste):
 
 ### Proces
 
-1. Save and Publish "Viden" oversiden
+1. Save and Publish "Viden" oversiden (Se [Save and publish](#save-and-publish))
 2. Kvalitetssikre undersider
 	1. Kvalitetssikre "ReportTitle"
 		1. OBS: Hvis en årsrapport er fra 2024, skal "ShownOnNewKnowledge" være aktiveret.
@@ -157,7 +157,7 @@ Standardiserede navne (til copy paste):
 		3. Er det den korrekte ReportTitle, i formatet "Årsrapport 2019" eller "Onepage 2021"?
 			1. NEJ: Ret ReportTitle.
 		4. Kopier "ReportTitle" til Titlen på siden.
-		5. Færdig: Save and Publish
+		5. Færdig: Save and Publish (Se [Save and publish](#save-and-publish))
 			1. Hvis ikke du kan publish er det fordi de øvre noder ikke er published. Rækkefølgen på opgaven burde forhindrer dette. Ellers lav kvalitetssikring på de øvre noder først.
 3. Kvalitetssikre overordnet indhold:
 		1. OBS: Ignorer "Tidsplan for næste årsrapport" og "Tidligere Årsrapporter". Disse tilføjes senere.
@@ -170,7 +170,7 @@ Standardiserede navne (til copy paste):
 
 ### Proces
 
-1. Save and Publish "Nyheder fra ...." oversiden (Se [Side elementer](#side-elementer))
+1. Save and Publish "Nyheder fra ...." oversiden (Se [Save and publish](#save-and-publish))
 2. Kvalitetssikre hver nyhed:
 	1. Kvalitetssikre dato:
 		1. Er "OverrideDate" fra før 2024?
@@ -186,6 +186,7 @@ Standardiserede navne (til copy paste):
 	4. Kvalitetssikre Text -> Body ("A" på [Body -> Text elementer](##body---text-elementer))
 		1. Ser det rigtigt ud?
 			1. NEJ: Lav små rettelser for at gøre det acceptabelt, ellers marker som "afvist" i Excel arket. 
+	5. Færdig: Save and Publish (Se [Save and publish](#save-and-publish))
 
 
 ## Kvalitetssikring af Nyheder
