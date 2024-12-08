@@ -248,6 +248,7 @@ Underrubrikken. Vil i kvalitetssikringen være tom.
 ## Retter en resource
 
 ### Tilføje en titel til en resource
+1. Tryk på "Edit" ud
 
 
 ## Slet en resource
