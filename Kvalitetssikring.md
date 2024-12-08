@@ -81,7 +81,7 @@ Det anbefales at have to skærme, så rkkp.dk kan være på den ene skærm og de
 **Der er tekst om formandskab og et link til oversigt over medlemmer. Lad dette stå i kvalitetssikringen, da det først tilrettes senere.**
 
 ### Opgaver
-1. Kvalitetssikre "PageSubTitle"
+1. Kvalitetssikre "PageSubTitle" ("C" på )
 	1. Er der ÅÆØ i teksten?
 		1. NEJ: Markér som "Afvist"
 	2. Er der HTML elementer som `<p></p>` eller `&nbsp;` i teksten?
@@ -256,6 +256,11 @@ Underrubrikken. Vil i kvalitetssikringen være tom.
 ![Proces - Resource - Add Title|450](assets/Proces%20-%20Resource%20-%20Add%20Title.png)
 
 ## Slet en resource
+1. Åben din "resource"
+![Proces - Resource - Open Resource|450](assets/Proces%20-%20Resource%20-%20Open%20Resource.png)
+2. Tryk på "Remove"
+![Proces - Resource - Remove|450](assets/Proces%20-%20Resource%20-%20Remove.png)
+
 
 ## Retter en body -> Text
 
