@@ -157,7 +157,7 @@ Standardiserede navne (til copy paste):
 	2. NEJ: Slet de undersider som har en tilsvarende underside med rigtigt navn.
 3. Kvalitetssikre undersider
 	1. Kvalitetssikre "ReportTitle"
-		1. OBS: Hvis en årsrapport er fra 2024, skal "ShownOnNewKnowledge" være aktiveret.
+		1. ~~OBS: Hvis en årsrapport er fra 2024, skal "ShownOnNewKnowledge" være aktiveret.~~
 		2. Tryk på filen for at åbne den i et nyt vindue.
 		3. Er det den korrekte ReportTitle, i formatet "Årsrapport 2019" eller "Onepage 2021"?
 			1. NEJ: Ret ReportTitle.
