@@ -189,7 +189,7 @@ Standardiserede navne (til copy paste):
 		2. Er der HTML i teksten?
 			1. JA: Slet det.
 	4. Kvalitetssikre Text -> Body ("A" på [Body -> Text elementer](##body---text-elementer))
-		1. Ser det rigtigt ud?
+		2. Ser det rigtigt ud?
 			1. NEJ: Lav små rettelser for at gøre det acceptabelt, ellers marker som "afvist" i Excel arket. 
 	5. Færdig: Save and Publish (Se [Save and publish](#save-and-publish))
 
@@ -219,6 +219,9 @@ Da processen ikke er helt på plads kommer de senere.
 - Beskrivelse kommer senere...
 
 ## Tilføj "Vil du vide mere?"
+- Beskrivelse kommer senere...
+
+## Sortér bokse under database sider
 - Beskrivelse kommer senere...
 
 # Elementer i Umbraco
