@@ -150,7 +150,8 @@ Standardiserede navne (til copy paste):
 ### Proces
 
 1. Save and Publish "Viden" oversiden (Se [Save and publish](#save-and-publish))
-2. Kvalitetssikre undersider
+2. Er der lige så mange undersider med GUID () navne som med rigtige 
+3. Kvalitetssikre undersider
 	1. Kvalitetssikre "ReportTitle"
 		1. OBS: Hvis en årsrapport er fra 2024, skal "ShownOnNewKnowledge" være aktiveret.
 		2. Tryk på filen for at åbne den i et nyt vindue.
@@ -159,7 +160,7 @@ Standardiserede navne (til copy paste):
 		4. Kopier "ReportTitle" til Titlen på siden.
 		5. Færdig: Save and Publish (Se [Save and publish](#save-and-publish))
 			1. Hvis ikke du kan publish er det fordi de øvre noder ikke er published. Rækkefølgen på opgaven burde forhindrer dette. Ellers lav kvalitetssikring på de øvre noder først.
-3. Kvalitetssikre overordnet indhold:
+4. Kvalitetssikre overordnet indhold:
 		1. OBS: Ignorer "Tidsplan for næste årsrapport" og "Tidligere Årsrapporter". Disse tilføjes senere.
 		2. OBS: Ignorer "Daglige Data"-boksen.
 		3. Er der det samme antal undersider på den nye side som der er links til indhold på RKKP.dk?
