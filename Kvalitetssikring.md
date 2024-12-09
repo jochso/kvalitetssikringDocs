@@ -147,6 +147,7 @@ Standardiserede navne (til copy paste):
 
 ## ”Viden”
 - Under "viden" findes normalt kun Årsrapporter og Onepagers. Hvis der er andet, indhold markeres det i kommentar feltet i Excel.
+- Tilføj.
 
 ### Proces
 
@@ -270,7 +271,8 @@ Underrubrikken. Vil i kvalitetssikringen være tom.
 ![Proces - Resource - Remove|500](assets/Proces%20-%20Resource%20-%20Remove.png)
 
 
-## Tilføj 
+## Tilføj en ny adresse
+
 
 ## Retter en body -> Text
 
