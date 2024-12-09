@@ -39,7 +39,7 @@ Når man starter med at kvalitetssikre medier vælger man en tilfældig fil med 
 - Tryk på PDF-filen ved 1-tallet på billedet.
 - Se hvad filen "er" og skriv databasen-navnet som filen vedrører, samt et beskrivende navn i feltet ved 2-tallet på billedet.
 	- fx: DDID - Variabelliste
-- Tryk på "Save" ved 3-tallet på billedet.
+- Tryk på "Save" ved 3-tallet på billedet eller bare tryk enter når du har skrevet titlen. Der kommer en advarsel hvis den ikke gemmer.
 
 Her er en liste af typiske navne som kan copy-pastes fra, hvis det passer ind i dit workflow:
 
