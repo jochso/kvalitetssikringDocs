@@ -12,7 +12,8 @@ Man vil som udgangspunkt blive startet med enten at kvalitetssikre medier, eller
 - Nyheder
 	- Birgitte Dalgaard
 - Medier
-	- Hvem kan Mandag og Tirsdag?
+	- Anne Hjelm
+	- Nanna Vestergaard
 - Database sider
 	- Anne Hjelm
 	- Tina Vammen
