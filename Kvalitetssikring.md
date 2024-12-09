@@ -38,7 +38,7 @@ Når man starter med at kvalitetssikre medier vælger man en tilfældig fil med 
 **Jeg har problemer med at åbne nogle filer, som ikke er PDF. Meld gerne tilbage om i oplever det samme. Efterlad filer som ikke kan åbnes med det "grimme" navn.**
 
 - Vælg en fil i højre menuen med et ID-navn (ex. 5def10b6-ea4a-4d3f-a554-c0edef6f5564) 
-- Tryk på PDF-filen ved 1-tallet på billedet.
+- Tryk på PDF-filen ved 1-tallet på billedet. *Hvis filen ikke er en PDF, kan den muligvis ikke åbnes. Efterlad den da med det "grimme" navn.*
 - Se hvad filen "er" og skriv databasen-navnet som filen vedrører, samt et beskrivende navn i feltet ved 2-tallet på billedet.
 	- fx: DDID - Variabelliste
 - Tryk på "Save" ved 3-tallet på billedet eller bare tryk enter når du har skrevet titlen. Der kommer en advarsel hvis den ikke gemmer.
