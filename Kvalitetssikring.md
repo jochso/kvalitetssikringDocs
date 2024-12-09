@@ -150,7 +150,9 @@ Standardiserede navne (til copy paste):
 ### Proces
 
 1. Save and Publish "Viden" oversiden (Se [Save and publish](#save-and-publish))
-2. Er der lige så mange undersider med GUID () navne som med rigtige 
+2. Er der lige så mange undersider med GUID ("9a30b2e6-d48b-4689-8a5b-42f0a33c599d") navne som med rigtige navne?
+	1. JA: Slet alle de undersider som har en GUID.
+	2. NEJ: Slet de undersider som har en tilsvarende underside med rigtigt navn.
 3. Kvalitetssikre undersider
 	1. Kvalitetssikre "ReportTitle"
 		1. OBS: Hvis en årsrapport er fra 2024, skal "ShownOnNewKnowledge" være aktiveret.
