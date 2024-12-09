@@ -35,6 +35,8 @@ Når man starter med at kvalitetssikre medier vælger man en tilfældig fil med 
 ## Proces
 ![Proces - Medier|600](assets/Proces%20-%20Medier.png)
 
+**Jeg har problemer med at åbne nogle filer, som ikke er PDF. Meld gerne tilbage om i oplever det samme. Efterlad filer som ikke kan åbnes med det "grimme" navn.**
+
 - Vælg en fil i højre menuen med et ID-navn (ex. 5def10b6-ea4a-4d3f-a554-c0edef6f5564) 
 - Tryk på PDF-filen ved 1-tallet på billedet.
 - Se hvad filen "er" og skriv databasen-navnet som filen vedrører, samt et beskrivende navn i feltet ved 2-tallet på billedet.
@@ -115,7 +117,7 @@ Det anbefales at have to skærme, så rkkp.dk kan være på den ene skærm og de
 	3. Er der samme antal links til indhold på RKKP.dk som der er under "Resources"?
 		1. NEJ: Tilføj links til "Resources". Dette bør kun være til eksterne sider, eller PDF'er udenfor "https://www.rkkp.dk/siteassets/".
 	4. Er alle "Resources" navngivet? (dvs. titlen ikke er fx. "9a30b2e6-d48b-4689-8a5b-42f0a33c599d")
-		1. NEJ: Ret navnet.
+		1. NEJ: Lad dem stå. Vi skal løse dette problem indefra medier.
 3. Færdig: Save and Publish (Se [Save and publish](#save-and-publish))
 	1. Hvis ikke du kan publish er det fordi de øvre noder ikke er published. Rækkefølgen på opgaven burde forhindrer dette. Ellers lav kvalitetssikring på de øvre noder først.
 
@@ -141,13 +143,12 @@ Standardiserede navne (til copy paste):
 	3. Er der samme antal links til indhold på RKKP.dk som der er under "Resources"?
 		1. NEJ: Tilføj links til "Resources". Dette bør kun være til eksterne sider, eller PDF'er udenfor "https://www.rkkp.dk/siteassets/".
 	4. Er alle "Resources" navngivet? (dvs. titlen ikke er fx. "9a30b2e6-d48b-4689-8a5b-42f0a33c599d")
-		1. NEJ: Ret navnet ved at ændre: "Link title"
+		1. NEJ: Lad dem stå. Vi skal løse dette problem indefra medier.
 3. Færdig: Save and Publish. (Se [Save and publish](#save-and-publish))
 	1. Hvis ikke du kan publish er det fordi de øvre noder ikke er published. Rækkefølgen på opgaven burde forhindrer dette. Ellers lav kvalitetssikring på de øvre noder først.
 
 ## ”Viden”
 - Under "viden" findes normalt kun Årsrapporter og Onepagers. Hvis der er andet, indhold markeres det i kommentar feltet i Excel.
-- Tilføj.
 
 ### Proces
 
