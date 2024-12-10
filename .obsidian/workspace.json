@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Kvalitetssikring"
             }
+          },
+          {
+            "id": "2dd8a2a843396364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,8 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "535b9c0ae75debfb",
+  "active": "2dd8a2a843396364",
   "lastOpenFiles": [
+    "Kvalitetssikring.md",
+    "Untitled.md",
     "assets/Proces - Save and Publish.png",
     "assets/Proces - Resource - Remove.png",
     "assets/Proces - Resource - Open Resource.png",
@@ -189,9 +206,7 @@
     "assets/Database - Forside.png",
     "assets/Body Elements.png",
     "assets",
-    "Kvalitetssikring.md",
     "IT Systemer/Hjemmeside/assets/Body Elements.png",
-    "IT Systemer/Hjemmeside/assets/Page Elements.png",
     "IT Systemer/Hjemmeside/Kvalitetssikring af hjemmeside.md",
     "IT Systemer/Hjemmeside/Kvalitetssikring af hjemmeside 1.md",
     "Organisation/Regionerne/Deling af filer udenfor RM.md",
