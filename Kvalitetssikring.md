@@ -233,9 +233,13 @@ Resultat:
 
 ## Opdele "Dokumentation"
 ### Formål / Problematik
-"Dokumentation"-siden er oftest opdelt i to: "Evidensgrundlag" og "Dokumentation". Indholdet er oftest "det samme". Den automatiske import har lagt det hele under samme overskrift. Formålet er at opdele dem igen.
+"Dokumentation"-siden er oftest opdelt i to: "Evidensgrundlag" og "Dokumentation". Indholdet er oftest "det samme". Den automatiske import har lagt det hele under samme overskrift. Formålet er at opdele dem igen. Da det meste indhold er "Dokumentation", er det bedst at tilføje "Evidensgrundlag" og omdøbe den nuværende til "Dokumentation".
 
-1. Da det meste indhold e
+1. Åben en "Dokumentation"-side.
+2. Tryk på den "Resources" som allerede er der.
+3. Tilføj "Dokumentation" til "ResourceTitle".
+4. Tryk på "Submit".
+5. Tryk på "Add ArticleResourceSection"
 
 ## Tilføj  "Indberetningssystem"-boks til "Indberetning-side"
 - Beskrivelse kommer senere.
