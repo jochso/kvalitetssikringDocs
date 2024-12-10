@@ -222,7 +222,8 @@ Et "underobjekt" i "Viden" bliver af systemet ses som en Årsrapport. Den tager 
 	2. Prøv at søge på databasens forkortelse, fx. DDD
 	3. Prøv at søge på databasens fuldenavn, fx. Dansk Depressions Database
 	4. Hvis ikke der kommer en onepager frem som du kan genkende - markér det som "Afvist" i Excel.
-6. Hvis du har fundet filen, tryk på den
+6. Hvis du har fundet filen, tryk på den og tryk på "Select" nede i bunden.
+7. Skriv titlen i "Link title", f.eks. "Onepager 2022". Jeg er ikke sikker på at vi kan have de fulde ti
 - Underobjekter i "Viden" er kun til Årsrapporter. Onepagers skal være i en resource kaldet "Onepagers" i stedet for at være children.
 - Årsrapporter skal uploades til serveren, og være underobjekter til viden. De kan ikke være links i Resources.
 
