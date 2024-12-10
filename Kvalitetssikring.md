@@ -237,9 +237,13 @@ Resultat:
 
 1. Åben en "Dokumentation"-side.
 2. Tryk på den "Resources" som allerede er der.
-3. Tilføj "Dokumentation" til "ResourceTitle".
+3. Skriv "Dokumentation" til "ResourceTitle".
 4. Tryk på "Submit".
-5. Tryk på "Add ArticleResourceSection"
+5. Tryk på "Add ArticleResourceSection".
+6. Skriv "Evidensgrundlag" i "ResourceTitle".
+7. Tryk på "Create".
+8. Flyt den nederste "Resources" i toppen af listen ved at "drag and drop" den, så "Evidensgrundlag" er øverst.
+9. Tryk på den nederste ("Dokumentation"-Resource) og find den resource som skal flyttes. (Oftest "Dokumentalistrapport" og/eller "Evidensgrundlag")
 
 ## Tilføj  "Indberetningssystem"-boks til "Indberetning-side"
 - Beskrivelse kommer senere.
