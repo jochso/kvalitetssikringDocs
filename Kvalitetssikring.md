@@ -235,6 +235,8 @@ Resultat:
 ### Formål / Problematik
 "Dokumentation"-siden er oftest opdelt i to: "Evidensgrundlag" og "Dokumentation". Indholdet er oftest "det samme". Den automatiske import har lagt det hele under samme overskrift. Formålet er at opdele dem igen. Da det meste indhold er "Dokumentation", er det bedst at tilføje "Evidensgrundlag" og omdøbe den nuværende til "Dokumentation".
 
+![Opdele Dokumentation - Problematik|600](assets/Opdele%20Dokumentation%20-%20Problematik.png)
+
 1. Åben en "Dokumentation"-side.
 2. Tryk på den "Resources" som allerede er der.
 3. Skriv "Dokumentation" til "ResourceTitle".
@@ -251,9 +253,9 @@ Resultat:
 7. Hvis du har fundet filen, tryk på den og tryk på "Select" nede i bunden.
 8. Tryk på "Submit" og "Submit".
 9. Flyt den nederste "Resources" i toppen af listen ved at "drag and drop" den, så "Evidensgrundlag" er øverst.
-10. Tryk på den nederste ("Dokumentation"-Resource) og flyt de resource som skal flyttes. (Oftest "Dokumentalistrapport" og/eller "Evidensgrundlag"):
-	1. Tryk på "Edit" ud for filen.
-	2. 
+10. Tryk på den nederste ("Dokumentation"-Resource) og tryk på "Remove" ud fra den Resource du lige har tilføjet.
+
+![Opdele Dokumentation - Problematik Løst|600](assets/Opdele%20Dokumentation%20-%20Problematik%20Løst.png)
 
 ## Tilføj  "Indberetningssystem"-boks til "Indberetning-side"
 - Beskrivelse kommer senere.
