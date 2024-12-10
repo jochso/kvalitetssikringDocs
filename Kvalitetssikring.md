@@ -214,20 +214,18 @@ Et "underobjekt" i "Viden" bliver af systemet ses som en Årsrapport. Den tager 
 
 ### Proces
 1. Tryk på "Viden", og fold den ud for at se om der er en "Onepager".
-2. Hvis der er, tryk på "Add ArticleResourceSection" knappen.
-3. Skriv "Onepagers" i "ResourceTitle"
-4. Tryk på "Add" ud for "Resources"
-5. Tryk på "Select Media".
+2. Hvis der er en onepager, kan du på "Viden" se om der en tom "Resources" du kan bruge, ellers tryk på "Add ArticleResourceSection" knappen.
+4. Skriv "Onepagers" i "ResourceTitle"
+5. Tryk på "Add" ud for "Resources"
+6. Tryk på "Select Media".
 	1. Her bliver det lidt svært, da vi skal finde PDF filen i media. Heldigvis har vi navngivet medier.
 	2. Prøv at søge på databasens forkortelse, fx. DDD
 	3. Prøv at søge på databasens fuldenavn, fx. Dansk Depressions Database
-	4. Hvis ikke der kommer en onepager frem som du kan genkende - markér det som "Afvist" i Excel.
-6. Hvis du har fundet filen, tryk på den og tryk på "Select" nede i bunden.
-7. Skriv titlen i "Link title", f.eks. "Onepager 2022". Jeg tror ikke at vi kan have de fulde titler på Onepagers i links kasserne - da de har det med at være meget, **meget** lange.
-8. Tryk på "Submit", og på "Submit", og på "Save and Publish".
-9. 
-- Underobjekter i "Viden" er kun til Årsrapporter. Onepagers skal være i en resource kaldet "Onepagers" i stedet for at være children.
-- Årsrapporter skal uploades til serveren, og være underobjekter til viden. De kan ikke være links i Resources.
+	4. Hvis ikke der kommer en onepager frem som du kan genkende - markér det som "Afvist" i Excel og gå videre til næste database.
+7. Hvis du har fundet filen, tryk på den og tryk på "Select" nede i bunden.
+8. Skriv titlen i "Link title", f.eks. "Onepager 2022". Jeg tror ikke at vi kan have de fulde titler på Onepagers i links kasserne - da de har det med at være meget, **meget** lange.
+9. Tryk på "Submit", og på "Submit", og på "Save and Publish".
+10. Højreklik på underobjektet "Onepager XXXX" og tryk "Delete".
 
 ## Tilføj "Dokumentation"-boks til "Dokumentation"-side
 - Beskrivelse kommer senere.
