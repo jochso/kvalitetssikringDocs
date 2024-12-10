@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Resterende systemer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Resterende systemer"
             }
           }
         ],
@@ -195,7 +195,7 @@
   "active": "2dd8a2a843396364",
   "lastOpenFiles": [
     "Kvalitetssikring.md",
-    "Untitled.md",
+    "Resterende systemer.md",
     "assets/Proces - Save and Publish.png",
     "assets/Proces - Resource - Remove.png",
     "assets/Proces - Resource - Open Resource.png",
