@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resterende systemer.md",
+                "file": "Manuel flytning (Resterende).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resterende systemer"
+              "title": "Manuel flytning (Resterende)"
             }
           }
         ],
@@ -195,7 +195,7 @@
   "active": "2dd8a2a843396364",
   "lastOpenFiles": [
     "Kvalitetssikring.md",
-    "Resterende systemer.md",
+    "Manuel flytning (Resterende).md",
     "assets/Proces - Save and Publish.png",
     "assets/Proces - Resource - Remove.png",
     "assets/Proces - Resource - Open Resource.png",
