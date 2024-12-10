@@ -216,7 +216,8 @@ Et "underobjekt" i "Viden" bliver af systemet ses som en Årsrapport. Den tager 
 1. Tryk på "Viden", og fold den ud for at se om der er en "Onepager".
 2. Hvis der er, tryk på "Add ArticleResourceSection" knappen.
 3. Skriv "Onepagers" i "ResourceTitle"
-4. 
+4. Tryk på "Add" ud for "Resources"
+5. Tryk på "Select Media"
 - Underobjekter i "Viden" er kun til Årsrapporter. Onepagers skal være i en resource kaldet "Onepagers" i stedet for at være children.
 - Årsrapporter skal uploades til serveren, og være underobjekter til viden. De kan ikke være links i Resources.
 
