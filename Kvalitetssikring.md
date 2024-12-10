@@ -202,9 +202,9 @@ Standardiserede navne (til copy paste):
 
 
 # Opgaver (Efter kvalitetssikring)
-Disse opgaver skal løses ved hjælp af Umbraco værktøjer, og skal laves efter kvalitetssikringen/kundetesten er færdig.
+Disse opgaver skal løses ved hjælp af Umbraco værktøjer, og skal laves efter kvalitetssikringen/kundetesten er færdig. Eventuelt i 2025.
 
-Da processen ikke er helt på plads kommer de senere.
+Da processen ikke er helt på plads kommer mange af dem senere.
 
 ## Rette "Viden"
 ### Formål / Problematik
@@ -233,7 +233,9 @@ Resultat:
 
 ## Opdele "Dokumentation"
 ### Formål / Problematik
-"Dokumentation"-siden er oftest opdelt i to: "Evidensgrundlag" og "Dokumentation". Indholdet er oftest "det"
+"Dokumentation"-siden er oftest opdelt i to: "Evidensgrundlag" og "Dokumentation". Indholdet er oftest "det samme". Den automatiske import har lagt det hele under samme overskrift. Formålet er at opdele dem igen.
+
+1. Da det meste indhold e
 
 ## Tilføj  "Indberetningssystem"-boks til "Indberetning-side"
 - Beskrivelse kommer senere.
