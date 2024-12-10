@@ -231,8 +231,9 @@ Resultat:
 
 ![Rette Viden - Problematik løst|600](assets/Rette%20Viden%20-%20Problematik%20løst.png)
 
-## Tilføj "Dokumentation"-boks til "Dokumentation"-side
-- Beskrivelse kommer senere.
+## Opdele "Dokumentation"
+### Formål / Problematik
+"Dokumentation"-siden er oftest opdelt i to: "Evidensgrundlag" og "Dokumentation". Indholdet er oftest "det"
 
 ## Tilføj  "Indberetningssystem"-boks til "Indberetning-side"
 - Beskrivelse kommer senere.
