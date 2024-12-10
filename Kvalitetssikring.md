@@ -206,6 +206,11 @@ Disse opgaver skal løses ved hjælp af Umbraco værktøjer, og skal laves efter
 
 Da processen ikke er helt på plads kommer de senere.
 
+## Rette "Viden"
+Formålet: 
+- Underobjekter i "Viden" er kun til Årsrapporter. Onepagers skal være i en resource kaldet "Onepagers" i stedet for at være children.
+- Årsrapporter skal uploades til serveren, og være underobjekter til viden. De kan ikke være links i Resources.
+
 ## Tilføj "Dokumentation"-boks til "Dokumentation"-side
 - Beskrivelse kommer senere.
 
@@ -227,9 +232,7 @@ Da processen ikke er helt på plads kommer de senere.
 ## Tilføj "Variabelliste"
 - Beskrivelse kommer senere...
 
-## Rette "Viden"
-- Underobjekter i "Viden" er kun til Årsrapporter. Onepagers skal være i en resource kaldet "Onepagers" i stedet for at være children.
-- Årsrapporter skal uploades til serveren, og være underobjekter til viden. De kan ikke være links i Resources.
+
 
 ## Sortér bokse under database sider
 - Beskrivelse kommer senere...
