@@ -217,7 +217,12 @@ Et "underobjekt" i "Viden" bliver af systemet ses som en Årsrapport. Den tager 
 2. Hvis der er, tryk på "Add ArticleResourceSection" knappen.
 3. Skriv "Onepagers" i "ResourceTitle"
 4. Tryk på "Add" ud for "Resources"
-5. Tryk på "Select Media"
+5. Tryk på "Select Media".
+	1. Her bliver det lidt svært, da vi skal finde PDF filen i media. Heldigvis har vi navngivet medier.
+	2. Prøv at søge på databasens forkortelse, fx. DDD
+	3. Prøv at søge på databasens fuldenavn, fx. Dansk Depressions Database
+	4. Hvis ikke der kommer en onepager frem som du kan genkende - markér det som "Afvist" i Excel.
+6. Hvis du har fundet filen, tryk på den
 - Underobjekter i "Viden" er kun til Årsrapporter. Onepagers skal være i en resource kaldet "Onepagers" i stedet for at være children.
 - Årsrapporter skal uploades til serveren, og være underobjekter til viden. De kan ikke være links i Resources.
 
