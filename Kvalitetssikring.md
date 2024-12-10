@@ -242,8 +242,16 @@ Resultat:
 5. Tryk på "Add ArticleResourceSection".
 6. Skriv "Evidensgrundlag" i "ResourceTitle".
 7. Tryk på "Create".
-8. Flyt den nederste "Resources" i toppen af listen ved at "drag and drop" den, så "Evidensgrundlag" er øverst.
-9. Tryk på den nederste ("Dokumentation"-Resource) og flyt de resource som skal flyttes. (Oftest "Dokumentalistrapport" og/eller "Evidensgrundlag"):
+8. Tryk på "Add" ud for "Resources"
+6. Tryk på "Select Media".
+	1. Her bliver det lidt svært, da vi skal finde PDF filen i media. Heldigvis har vi navngivet medier.
+	2. Prøv at søge på databasens forkortelse, fx. DDD
+	3. Prøv at søge på databasens fuldenavn, fx. Dansk Depressions Database
+	4. Hvis ikke der kommer et dokument frem som du kan genkende - markér det som "Afvist" i Excel og gå videre til næste database.
+7. Hvis du har fundet filen, tryk på den og tryk på "Select" nede i bunden.
+8. Tryk på "Submit" og "Submit".
+9. Flyt den nederste "Resources" i toppen af listen ved at "drag and drop" den, så "Evidensgrundlag" er øverst.
+10. Tryk på den nederste ("Dokumentation"-Resource) og flyt de resource som skal flyttes. (Oftest "Dokumentalistrapport" og/eller "Evidensgrundlag"):
 	1. Tryk på "Edit" ud for filen.
 	2. 
 
