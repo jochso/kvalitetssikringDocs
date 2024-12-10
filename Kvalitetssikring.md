@@ -174,6 +174,8 @@ Standardiserede navne (til copy paste):
 ## ”Nyheder fra …”
 **Husk at "OverrideDate" er den dato som hjemmesiden sorterer efter i front-end. Rækkefølgen i Umbraco har ingen betydning og kan rettes senere.**
 
+**Der er blevet kørt en aggressiv oprydning i nyheder for at fjerne links som ikke længere virker. Det betyder at hele sætninger, som knytter sig til filer/links der ikke længere eksisterer er blevet fjernet. Derfor vil noget tekst ende "blindt" hvis en sætning er blevet fjernet. Lav eventuelt små rettelser til dette, men ikke brug for meget tid på det.**
+
 ### Proces
 
 1. Save and Publish "Nyheder fra ...." oversiden (Se [Save and publish](#save-and-publish))
