@@ -243,7 +243,9 @@ Resultat:
 6. Skriv "Evidensgrundlag" i "ResourceTitle".
 7. Tryk på "Create".
 8. Flyt den nederste "Resources" i toppen af listen ved at "drag and drop" den, så "Evidensgrundlag" er øverst.
-9. Tryk på den nederste ("Dokumentation"-Resource) og find den resource som skal flyttes. (Oftest "Dokumentalistrapport" og/eller "Evidensgrundlag")
+9. Tryk på den nederste ("Dokumentation"-Resource) og flyt de resource som skal flyttes. (Oftest "Dokumentalistrapport" og/eller "Evidensgrundlag"):
+	1. Tryk på "Edit" ud for filen.
+	2. 
 
 ## Tilføj  "Indberetningssystem"-boks til "Indberetning-side"
 - Beskrivelse kommer senere.
