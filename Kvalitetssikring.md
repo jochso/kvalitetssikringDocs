@@ -227,6 +227,10 @@ Et "underobjekt" i "Viden" bliver af systemet ses som en Årsrapport. Den tager 
 9. Tryk på "Submit", og på "Submit", og på "Save and Publish".
 10. Højreklik på underobjektet "Onepager XXXX" og tryk "Delete".
 
+Resultat:
+
+![Rette Viden - Problematik løst|600](assets/Rette%20Viden%20-%20Problematik%20løst.png)
+
 ## Tilføj "Dokumentation"-boks til "Dokumentation"-side
 - Beskrivelse kommer senere.
 
