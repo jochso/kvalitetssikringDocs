@@ -224,8 +224,13 @@ Da processen ikke er helt på plads kommer de senere.
 ## Tilføj "Vil du vide mere?"
 - Beskrivelse kommer senere...
 
+## Tilføj "Variabelliste"
+- 
+
 ## Sortér bokse under database sider
 - Beskrivelse kommer senere...
+
+
 
 # Elementer i Umbraco
 
