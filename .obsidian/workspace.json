@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manuel flytning (Resterende).md",
+                "file": "Kvalitetssikring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manuel flytning (Resterende)"
+              "title": "Kvalitetssikring"
             }
           }
         ],
@@ -194,8 +194,8 @@
   },
   "active": "2dd8a2a843396364",
   "lastOpenFiles": [
-    "Kvalitetssikring.md",
     "Manuel flytning (Resterende).md",
+    "Kvalitetssikring.md",
     "assets/Proces - Save and Publish.png",
     "assets/Proces - Resource - Remove.png",
     "assets/Proces - Resource - Open Resource.png",
