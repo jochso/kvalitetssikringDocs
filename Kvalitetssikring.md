@@ -208,9 +208,12 @@ Da processen ikke er helt på plads kommer de senere.
 
 ## Rette "Viden"
 ### Formål / Problematik
-Et "underobjekt" i "Viden" bliver af systemet ses som en Årsrapport. Den tager "underobjekter" og tilføjer under en overskrift som hedder "Årsrapporter". Den automatiske flytning har også lagt "Onepagers" ind under viden - og derfor står de nu forkert.
+Et "underobjekt" i "Viden" bliver af systemet ses som en Årsrapport. Den tager "underobjekter" og tilføjer under en overskrift som hedder "Årsrapporter". Den automatiske flytning har også lagt "Onepagers" ind under viden - og derfor står de nu forkert:
 
+![Rette Viden - Problematik|600](assets/Rette%20Viden%20-%20Problematik.png)
 
+### Proces
+- 
 - Underobjekter i "Viden" er kun til Årsrapporter. Onepagers skal være i en resource kaldet "Onepagers" i stedet for at være children.
 - Årsrapporter skal uploades til serveren, og være underobjekter til viden. De kan ikke være links i Resources.
 
