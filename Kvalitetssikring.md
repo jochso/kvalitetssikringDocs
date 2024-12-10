@@ -213,7 +213,10 @@ Et "underobjekt" i "Viden" bliver af systemet ses som en Årsrapport. Den tager 
 ![Rette Viden - Problematik|600](assets/Rette%20Viden%20-%20Problematik.png)
 
 ### Proces
-- 
+1. Tryk på "Viden", og fold den ud for at se om der er en "Onepager".
+2. Hvis der er, tryk på "Add ArticleResourceSection" knappen.
+3. Skriv "Onepagers" i "ResourceTitle"
+4. 
 - Underobjekter i "Viden" er kun til Årsrapporter. Onepagers skal være i en resource kaldet "Onepagers" i stedet for at være children.
 - Årsrapporter skal uploades til serveren, og være underobjekter til viden. De kan ikke være links i Resources.
 
