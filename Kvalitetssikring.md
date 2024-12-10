@@ -207,7 +207,10 @@ Disse opgaver skal løses ved hjælp af Umbraco værktøjer, og skal laves efter
 Da processen ikke er helt på plads kommer de senere.
 
 ## Rette "Viden"
-Formålet: 
+### Formål / Problematik
+Et "underobjekt" i "Viden" bliver af systemet ses som en Årsrapport. Den tager "underobjekter" og tilføjer under en overskrift som hedder "Årsrapporter". Den automatiske flytning har også lagt "Onepagers" ind under viden - og derfor står de nu forkert.
+
+
 - Underobjekter i "Viden" er kun til Årsrapporter. Onepagers skal være i en resource kaldet "Onepagers" i stedet for at være children.
 - Årsrapporter skal uploades til serveren, og være underobjekter til viden. De kan ikke være links i Resources.
 
