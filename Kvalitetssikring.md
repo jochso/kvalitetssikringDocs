@@ -240,8 +240,10 @@ Resultat:
 1. Åben en "Dokumentation"-side.
 2. Tryk på den "Resources" som allerede er der.
 3. Skriv "Dokumentation" til "ResourceTitle".
-4. Omdøb Resourcer til standariserede navne:
-	1. Databasens indikatore
+4. Omdøb de relevante Resourcer til standariserede navne:
+	1. Databasens indikatorer
+	2. Beregningsregler
+	3. Variabelliste
 5. Tryk på "Submit".
 6. Tryk på "Add ArticleResourceSection".
 7. Skriv "Evidensgrundlag" i "ResourceTitle".
