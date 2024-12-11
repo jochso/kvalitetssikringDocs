@@ -240,20 +240,22 @@ Resultat:
 1. Åben en "Dokumentation"-side.
 2. Tryk på den "Resources" som allerede er der.
 3. Skriv "Dokumentation" til "ResourceTitle".
-4. Tryk på "Submit".
-5. Tryk på "Add ArticleResourceSection".
-6. Skriv "Evidensgrundlag" i "ResourceTitle".
-7. Tryk på "Create".
-8. Tryk på "Add" ud for "Resources"
-6. Tryk på "Select Media".
+4. Omdøb Resourcer til standariserede navne:
+	1. Databasens indikatore
+5. Tryk på "Submit".
+6. Tryk på "Add ArticleResourceSection".
+7. Skriv "Evidensgrundlag" i "ResourceTitle".
+8. Tryk på "Create".
+9. Tryk på "Add" ud for "Resources"
+10. Tryk på "Select Media".
 	1. Her bliver det lidt svært, da vi skal finde PDF filen i media. Heldigvis har vi navngivet medier.
 	2. Prøv at søge på databasens forkortelse, fx. DDD
 	3. Prøv at søge på databasens fuldenavn, fx. Dansk Depressions Database
 	4. Hvis ikke der kommer et dokument frem som du kan genkende - markér det som "Afvist" i Excel og gå videre til næste database.
-7. Hvis du har fundet filen, tryk på den og tryk på "Select" nede i bunden.
-8. Tryk på "Submit" og "Submit".
-9. Flyt den nederste "Resources" i toppen af listen ved at "drag and drop" den, så "Evidensgrundlag" er øverst.
-10. Tryk på den nederste ("Dokumentation"-Resource) og tryk på "Remove" ud fra den Resource du lige har tilføjet.
+11. Hvis du har fundet filen, tryk på den og tryk på "Select" nede i bunden.
+12. Tryk på "Submit" og "Submit".
+13. Flyt den nederste "Resources" i toppen af listen ved at "drag and drop" den, så "Evidensgrundlag" er øverst.
+14. Tryk på den nederste ("Dokumentation"-Resource) og tryk på "Remove" ud fra den Resource du lige har tilføjet.
 
 ![Opdele Dokumentation - Problematik Løst|600](assets/Opdele%20Dokumentation%20-%20Problematik%20Løst.png)
 
