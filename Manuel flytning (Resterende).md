@@ -9,8 +9,8 @@
 	- Systemer (?)
 		- Indberetning [Anna] (?)
 		- Afrapportering  (ArticlePage)
-			- Regionale Systemer  (ArticlePage)
-			- Levering af Data  (ArticlePage)
+			- <font color="#00b050">Regionale Systemer  (ArticlePage)</font> -> En del af Daglige data
+			- Levering af Data  (ArticlePage) -> 
 		- Status på Data  (ArticlePage)
 	- <font color="#00b050">Support  (ArticlePage)</font>
 	- Daglig Data  (ArticlePage)
