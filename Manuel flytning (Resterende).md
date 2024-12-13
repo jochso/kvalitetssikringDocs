@@ -12,7 +12,7 @@
 			- Regionale Systemer  (ArticlePage)
 			- Levering af Data  (ArticlePage)
 		- Status på Data  (ArticlePage)
-	- Support  (ArticlePage)
+	- <font color="#00b050">Support  (ArticlePage)</font>
 	- Daglig Data  (ArticlePage)
 	- Data til forskning  (ArticlePage)
 		- Variabelliste til forskningsadgang  (ArticlePage)
