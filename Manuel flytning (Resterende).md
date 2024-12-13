@@ -1,10 +1,14 @@
 
-# Nuværende Sitemap
+# Nuværende Sitemap og flytnings status
 
-- Om Instituttet  (ArticlePage)
+Grøn = Flyttet og Published - klar til launch.
+Gul = Oprettet i Umbraco som unpublished. (Mangler tekst eller lignende.)
+Hvid = Ikke oprettet i Umbraco.
+
+-<font color="#ffff00"> Om Instituttet</font>  (ArticlePage)
 	- Undersider?  (ArticlePage)
 - <font color="#00b050">Cookies  (ArticlePage)</font>
-- Webtilgængelighed  (ArticlePage)
+- <font color="#00b050">Webtilgængelighed</font>  (ArticlePage)
 - Teknisk Dokumentation (?)
 	- Systemer (?)
 		- Indberetning [Anna] (?)
@@ -16,11 +20,11 @@
 	- <font color="#00b050">Daglig Data</font>  (ArticlePage)
 	- <font color="#00b050">Data til forskning</font>  (ArticlePage)
 		- <font color="#00b050">Variabelliste til forskningsadgang</font>  (ArticlePage)
-- Presse (ArticlePage)
-- Retningslinjer (ArticlePage)
-- Vurderinger (ArticlePage)
-- Abonnement (ArticlePage)
-- Databaser
+- <font color="#ffff00">Presse</font> (ArticlePage)
+- <font color="#ffff00">Retningslinjer</font> (ArticlePage)
+- <font color="#ffff00">Vurderinger</font> (ArticlePage)
+- <font color="#ffff00">Abonnement</font> (ArticlePage)
+- <font color="#00b050">Databaser</font>
 	- Nye databaser
 	- Udvikling af indikatorer
 	- Patientinvolvering
