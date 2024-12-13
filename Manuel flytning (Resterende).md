@@ -14,8 +14,8 @@
 		- <font color="#00b050">Status på Data</font>  (ArticlePage)
 	- <font color="#00b050">Support  (ArticlePage)</font>
 	- <font color="#00b050">Daglig Data</font>  (ArticlePage)
-	- Data til forskning  (ArticlePage)
-		- Variabelliste til forskningsadgang  (ArticlePage)
+	- <font color="#00b050">Data til forskning</font>  (ArticlePage)
+		- <font color="#00b050">Variabelliste til forskningsadgang</font>  (ArticlePage)
 - Presse (ArticlePage)
 - Retningslinjer (ArticlePage)
 - Vurderinger (ArticlePage)
