@@ -20,6 +20,15 @@
 - Retningslinjer (ArticlePage)
 - Vurderinger (ArticlePage)
 - Abonnement (ArticlePage)
+- Databaser
+	- Nye databaser
+	- Udvikling af indikatorer
+	- Patientinvolvering
+	- Til styregrupper
+	- Til privathospitaler
+	- Til læger i praksis
+	- Til kommuner
+	- Styregruppemedlermmer
 
 
 # Afrapportering
