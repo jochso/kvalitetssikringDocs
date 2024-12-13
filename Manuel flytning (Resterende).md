@@ -3,7 +3,7 @@
 
 - Om Instituttet  (ArticlePage)
 	- Undersider?  (ArticlePage)
-- Cookies  (ArticlePage)
+- <font color="#00b050">Cookies  (ArticlePage)</font>
 - Webtilgængelighed  (ArticlePage)
 - Teknisk Dokumentation (?)
 	- Systemer (?)
