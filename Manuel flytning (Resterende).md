@@ -31,8 +31,13 @@ Hvid = Ikke oprettet i Umbraco.
 	- Udvikling af indikatorer
 		- Evidensrapporter og Charlsons indeks flades ud og puttes ind i udvikling af indikatorer.
 	- Patientinvolvering
-		- 
+		- Patientrepræsentation i databasere – interview og cases
+			- Interviews.
 	- Til styregrupper
+		- Rammer for databasearbejde
+		- PRO
+		- Vejledninger (Merges ind i styregrupper)
+		- 
 	- Til privathospitaler
 	- Til læger i praksis
 	- Til kommuner
