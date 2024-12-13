@@ -33,7 +33,7 @@
 	- Omlægning
 	- Læge kend din kvalitet
 	- Analyse : Kræft i danmark
-	- Amputatiner osv.
+	- Amputationer osv.
 	- Dansk intensiv
 	- Covid-19
 	- Benchmark III
