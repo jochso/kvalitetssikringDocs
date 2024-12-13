@@ -34,14 +34,15 @@ Hvid = Ikke oprettet i Umbraco.
 		- Patientrepræsentation i databasere – interview og cases
 			- Interviews.
 	- Til styregrupper
-		- Rammer for databasearbejde
-		- PRO
-		- Vejledninger (Merges ind i styregrupper)
-		- 
-	- Til privathospitaler
-	- Til læger i praksis
-	- Til kommuner
-	- Styregruppemedlermmer
+			- Flades ud
+		- Til privathospitaler
+			- Flades yd
+		- Til læger i praksis
+			- Flades ud
+		- Til kommuner
+			- Flades ud
+		- Styregruppemedlermmer
+			- Puttes ind i overside.
 - Viden og projekter
 	- Omlægning
 	- Læge kend din kvalitet
