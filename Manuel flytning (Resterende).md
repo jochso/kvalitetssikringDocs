@@ -8,12 +8,12 @@
 - Teknisk Dokumentation (?)
 	- Systemer (?)
 		- Indberetning [Anna] (?)
-		- Afrapportering  (ArticlePage)
+		- <font color="#00b050">Afrapportering</font>  (ArticlePage) -> En del af Daglige Data
 			- <font color="#00b050">Regionale Systemer  (ArticlePage)</font> -> En del af Daglige data
-			- Levering af Data  (ArticlePage) -> 
-		- Status på Data  (ArticlePage)
+			- <font color="#00b050">Levering af Data  (ArticlePage) </font>-> En del af Daglige data
+		- <font color="#00b050">Status på Data</font>  (ArticlePage)
 	- <font color="#00b050">Support  (ArticlePage)</font>
-	- Daglig Data  (ArticlePage)
+	- <font color="#00b050">Daglig Data</font>  (ArticlePage)
 	- Data til forskning  (ArticlePage)
 		- Variabelliste til forskningsadgang  (ArticlePage)
 - Presse (ArticlePage)
