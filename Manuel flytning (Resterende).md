@@ -26,8 +26,12 @@ Hvid = Ikke oprettet i Umbraco.
 - <font color="#ffff00">Abonnement</font> (ArticlePage)
 - <font color="#00b050">Databaser</font>
 	- Nye databaser
+		- Landsdækkende Database for Børn og Unges Sundhed (LDBU)
+		- Hvorfor er denne ikke under databaser eller projekter?
 	- Udvikling af indikatorer
+		- Evidensrapporter og Charlsons indeks flades ud og puttes ind i udvikling af indikatorer.
 	- Patientinvolvering
+		- 
 	- Til styregrupper
 	- Til privathospitaler
 	- Til læger i praksis
