@@ -262,7 +262,9 @@ Resultat:
 ![Opdele Dokumentation - Problematik Løst|600](assets/Opdele%20Dokumentation%20-%20Problematik%20Løst.png)
 
 ## Tilføj  "Indberetningssystem"-boks til "Indberetning-side"
-- Beskrivelse kommer senere.
+- Krav:
+	- KIP side oprettet.
+	- Support side oprettet.
 
 ## Tilføj "Tidsplan for årsrapporter" til "Viden"-side.
 - Beskrivelse kommer senere...
