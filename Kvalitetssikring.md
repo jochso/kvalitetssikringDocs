@@ -267,7 +267,12 @@ Resultat:
 	- Support side oprettet.
 
 ## Tilføj "Tidsplan for årsrapporter" til "Viden"-side.
-- Beskrivelse kommer senere...
+- Lav en resource og kopier den til alle Viden sider:
+	- Titel:
+	- Links:
+		- Tidsplan for næste årsrapport
+			- https://rkkp-databaseoversigt.dk/reportspublic/annualreports
+		- 
 
 ## Tilføj "Ved sammenligning" til "Viden"-side
 - Beskrivelse kommer senere...
