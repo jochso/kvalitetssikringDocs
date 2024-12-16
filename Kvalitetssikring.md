@@ -272,7 +272,7 @@ Resultat:
 	- Links:
 		- Tidsplan for næste årsrapport
 			- https://rkkp-databaseoversigt.dk/reportspublic/annualreports
-		- 
+## Tilføj "Daglige data" boks til "Viden"-side
 
 ## Tilføj "Ved sammenligning" til "Viden"-side
 - Beskrivelse kommer senere...
