@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manuel flytning (Resterende).md",
+                "file": "Kvalitetssikring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manuel flytning (Resterende)"
+              "title": "Kvalitetssikring"
             }
           }
         ],
@@ -188,18 +188,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
       "system3-relay:Relay": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2dd8a2a843396364",
   "lastOpenFiles": [
+    "Manuel flytning (Resterende).md",
     "Kvalitetssikring.md",
     "assets/Opdele Dokumentation - Problematik.png",
     "assets/Opdele Dokumentation - Problematik Løst.png",
     "assets/Rette Viden - Problematik løst.png",
     "assets/Rette Viden - Problematik.png",
-    "Manuel flytning (Resterende).md",
     "assets/Proces - Save and Publish.png",
     "assets/Proces - Resource - Remove.png",
     "assets/Proces - Resource - Open Resource.png",
