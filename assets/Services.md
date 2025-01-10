@@ -16,9 +16,11 @@
 
 # Drip
 
-# ConvertKit
+# Moosend
+- 
 
 
 # Kit
 532897ajda?
-- 
+- Det er for creators? Noget med en shop også?
+- Meget fokus på salg.
