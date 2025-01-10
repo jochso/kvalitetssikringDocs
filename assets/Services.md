@@ -17,6 +17,7 @@
 # Drip
 
 # Moosend
+- Avanceret opsætning af topics og segmentation
 - 
 
 
