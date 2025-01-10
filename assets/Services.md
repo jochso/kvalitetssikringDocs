@@ -7,3 +7,17 @@
 - Max 60 groups.
 - Subs kan ikke afmelde sig selv på tags.
 
+# Brevo
+
+
+# Constant Contact
+
+# HubSpot
+
+# Drip
+
+# ConvertKit
+
+
+# Kit
+- 
