@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/Untitled.md",
+                "file": "assets/Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Services"
             }
           }
         ],
@@ -195,7 +195,7 @@
   "active": "2dd8a2a843396364",
   "lastOpenFiles": [
     "Kvalitetssikring.md",
-    "assets/Untitled.md",
+    "assets/Services.md",
     "Manuel flytning (Resterende).md",
     "assets/Opdele Dokumentation - Problematik.png",
     "assets/Opdele Dokumentation - Problematik Løst.png",
